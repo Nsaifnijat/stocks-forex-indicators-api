@@ -5,4 +5,4 @@
 3- The usecase of this repo is mainly for microservices, where you need to calculate the values of bollinger bands using python and get the values in your program of choice. 
 
 Note: the sample request can be written in any language and if you have the indicator api file running, then you will receive the values of bollinger bands.
-here bollinger bands is an example you can change it to any indicator, also you will need to bring some changes accordingly in production.
+here bollinger bands is an example you can change it to any indicator, also you will need to bring some changes accordingly if you use it for production.
